@@ -1,0 +1,4 @@
+Really simple webcam viewing utils.  One as a webpage, one as a pygame python script.
+Both work OK on a raspberry pi tested up to 5 cameras, but the pygame one had much better performance.
+
+Webcams assumed to be providing static jpeg images over HTTP.
